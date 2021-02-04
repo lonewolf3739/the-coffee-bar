@@ -9,6 +9,7 @@ verify_ssl = true
 APScheduler = "3.7.0"
 argparse = "1.4.0"
 Flask = "1.1.2"
+opentelemetry-distro = "0.17b0"
 opentelemetry-instrumentation = "0.17b0"
 opentelemetry-sdk = "0.17b0"
 opentelemetry-exporter-jaeger = "0.17b0"
